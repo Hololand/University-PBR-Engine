@@ -1,0 +1,9 @@
+﻿  main.cpp
+F:\Documents\UNIVERSITY\Year 3\CE301 - Capstone Project\git_local\ce301_thomas_holland_c\3DEngine\src\Engine.h(795,26): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+F:\Documents\UNIVERSITY\Year 3\CE301 - Capstone Project\git_local\ce301_thomas_holland_c\3DEngine\src\Engine.h(796,27): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 2200 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3DEngine.vcxproj -> F:\Documents\UNIVERSITY\Year 3\CE301 - Capstone Project\git_local\ce301_thomas_holland_c\3DEngine\Release\3DEngine.exe

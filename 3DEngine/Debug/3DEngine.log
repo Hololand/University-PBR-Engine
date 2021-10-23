@@ -1,0 +1,4 @@
+﻿  main.cpp
+  LINK : program database F:\Documents\UNIVERSITY\Year 3\CE301 - Capstone Project\git_local\ce301_thomas_holland_c\3DEngine\Debug\3DEngine.pdb missing; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  3DEngine.vcxproj -> F:\Documents\UNIVERSITY\Year 3\CE301 - Capstone Project\git_local\ce301_thomas_holland_c\3DEngine\Debug\3DEngine.exe
