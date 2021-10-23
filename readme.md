@@ -11,7 +11,7 @@ This is a Physically based 3D Graphics rendering engine created using OpenGL and
 > Visual studio should prompt for any required workloads / packages automatically.
 # Building & Running
 Building this project is fairly easy, The most simple way is using Visual Studio 2019.
-1. Clone the git `https://cseegit.essex.ac.uk/ce301_2020/ce301_thomas_holland_c.git`
+1. Clone the git `https://github.com/Hololand/University-PBR-Engine.git`
 2. Load the solution file `3DEngine.sln` into Visual Studio 2019.
 3. Set the build mode to `Release` and `x86`.
 4. Run the program using `Local Windows Debugger`
